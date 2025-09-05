@@ -1,8 +1,11 @@
 ****About me:****
 
-- I'm from Vĩnh Long province. I activity from 9pm to 3am.
+- I'm from Vĩnh Long province. I was born in 2k5. I activity from 9pm to 3am.
 - **Proficient:**
-- -
+  - Office software
+  - OS: Android, iOS, Windows, Linux
+  - Programming language: JavaScript, TypeScript
+  - Programming software: VS Code, WebStorm, Android Studio
 ----------------------------------------------------------------------------------
 ****Thanks for:****
 
