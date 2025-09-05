@@ -1,6 +1,8 @@
 ****About me:****
 
 - I'm from Vĩnh Long province. I activity from 9pm to 3am.
+- **Proficient:**
+- -
 ----------------------------------------------------------------------------------
 ****Thanks for:****
 
