@@ -1,6 +1,6 @@
 ****About me:****
 
-- I am from Vĩnh Long province. I activity from 9pm to 3am.
+- I'm from Vĩnh Long province. I activity from 9pm to 3am.
 ----------------------------------------------------------------------------------
 ****Thanks for:****
 
